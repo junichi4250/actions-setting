@@ -1,1 +1,1 @@
-[![Actions Status](https://github.com/junichi4250/actions-setting/workflows/{action}/badge.svg)](https://github.com/junichi4250/actions-setting/actions)
+[![lint status](https://github.com/junichi4250/actions-setting/workflows/{action}/badge.svg)](https://github.com/junichi4250/actions-setting/actions)
