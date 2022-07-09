@@ -39,3 +39,9 @@ jobs:
 
           # Optional: if set to true then the action don't cache or restore ~/.cache/go-build.
           # skip-build-cache: true
+
+  actionlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: reviewdog/action-actionlint@v1
